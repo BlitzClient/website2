@@ -1,32 +1,35 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# BlitzClient – Offizielle Website
 
+📍 [blitzclient.netlify.app](https://blitzclient.netlify.app)  
+🔧 Basierend auf dem Template **Massively** von HTML5 UP  
+📅 Stand: 2025  
+📂 Lizenz: [CC BY 3.0](https://html5up.net/license)
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+---
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## 🔎 Über das Projekt
 
-(* = not included)
+Diese Website ist die offizielle Webpräsenz des **BlitzClient**, einem Minecraft-Launcher-Projekt mit Fokus auf Performance, Community-Funktionen und regelmäßigem Update-Support.
 
-AJ
-aj@lkn.io | @ajlkn
+Die Seite basiert auf dem Template **Massively** von [HTML5 UP](https://html5up.net), wurde aber in Design, Inhalt und Struktur speziell für den BlitzClient angepasst. Ziel war es, eine moderne, übersichtliche und animierte Landingpage zu schaffen, die dem Stil des Clients entspricht.
 
+---
 
-Credits:
+## ⚙️ Credits & Verwendete Tools
 
-	Demo Images:
-		Unsplash (unsplash.com)
+### 🧩 Icons & UI
+- Font Awesome – [fontawesome.com](https://fontawesome.com)
 
-	Icons:
-		Font Awesome (fontawesome.io)
+### 💻 Scripts & Libraries
+- jQuery – [jquery.com](https://jquery.com)
+- Scrollex – [github.com/ajlkn/jquery.scrollex](https://github.com/ajlkn/jquery.scrollex)
+- Responsive Tools – [github.com/ajlkn/responsive-tools](https://github.com/ajlkn/responsive-tools)
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+### 📁 Template-Grundlage
+- Massively von HTML5 UP  
+  Autor: [@ajlkn](https://twitter.com/ajlkn)  
+  Lizenz: [Creative Commons Attribution 3.0 License](https://html5up.net/license)
+
+---
+
+© 2025 BlitzClient – Alle Rechte vorbehalten.
