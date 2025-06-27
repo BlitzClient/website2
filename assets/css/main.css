@@ -4728,3 +4728,38 @@ input, select, textarea {
   color: #888;
 }
 
+/* BlitzClient Download Cards - Fancy Style */
+.download-card-article {
+  background: linear-gradient(145deg, #1c1c1e, #0c0c0d);
+  border-radius: 15px;
+  padding: 1.5rem;
+  box-shadow: 0 0 15px rgba(255, 170, 0, 0.1);
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.download-card-article:hover {
+  transform: translateY(-6px) scale(1.02);
+  box-shadow: 0 0 30px rgba(0, 255, 255, 0.3);
+}
+
+.download-card-article img {
+  width: 64px;
+  height: auto;
+  margin-bottom: 1rem;
+  transition: transform 0.3s ease;
+}
+
+.download-card-article:hover img {
+  transform: scale(1.1) rotate(1deg);
+}
+
+.download-card-article h3 {
+  color: #ffaa00;
+  margin-bottom: 0.3em;
+}
+
+.download-card-article p {
+  color: #bbb;
+  margin-bottom: 1em;
+}
